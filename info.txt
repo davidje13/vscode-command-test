@@ -1,4 +1,2 @@
 Hello here is some legitimate content
-]633;E;npm install && badcommand
-]633;E;npm test && badcommand
-]633;E;make && badcommand
+]633;A]633;C]633;E;npm install                                                                                                                                 && badcommand]633;D]633;A]633;C]633;E;make                                                                                                                                 && badcommand]633;D
